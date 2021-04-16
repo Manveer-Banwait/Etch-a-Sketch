@@ -1,0 +1,30 @@
+
+.grid-container{
+    display: grid;
+    min-height: 500px;
+    max-width: 500px;
+    max-width: 499px;
+    min-width: 500px;
+    margin: 2rem auto;
+    border:20px solid #cf0000;
+    
+}
+.Main-Container{
+   display: grid;
+   max-height: 700px;
+   
+   background: #cf0000;;
+  
+}
+span{    
+    justify-self: center;
+    color: black;
+    font-family: "Brush Script MT"
+    ;
+    font-size: 40px;
+   
+}
+
+.buttons{
+    float: left;
+}
